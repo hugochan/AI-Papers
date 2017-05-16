@@ -10,7 +10,7 @@ A comprehensive list of our favorite AI papers. It is an ongoing project.
 
 
 ## Probabilistic Graphic Models
-- Topic Modeling(Topic-Modeling/topic_modeling.md)
+- [Topic Modeling](Topic Modeling/topic_modeling.md)
 
 ## NLP
 - Representation Learning
