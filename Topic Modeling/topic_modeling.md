@@ -16,7 +16,6 @@ Favorite papers about topic modeling
 
 
 ## Sparsity
---------------------------------------------
 :white_check_mark: [Decoupling Sparsity and Smoothness in the Discrete Hierarchical Dirichlet Process] [[Paper]](https://papers.nips.cc/paper/3835-decoupling-sparsity-and-smoothness-in-the-discrete-hierarchical-dirichlet-process.pdf)
 
 :white_check_mark: [Proximal Methods for Sparse Hierarchical Dictionary Learning] [[Paper]](http://icml2010.haifa.il.ibm.com/papers/416.pdf)
