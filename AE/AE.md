@@ -14,6 +14,10 @@ Favorite papers about autoencoders
 
 :white_check_mark: [Adversarial Autoencoders] [[Paper]](https://arxiv.org/pdf/1511.05644.pdf)
 
+:white_check_mark: [Semi-supervised Sequence Learning] [[Paper]](https://arxiv.org/pdf/1511.01432.pdf)
+
+:white_check_mark: [Variational Recurrent Autoencoder] [[Paper]](https://arxiv.org/pdf/1412.6581.pdf)
+
 
 ## Text
 :white_check_mark: [Neural Variational Inference for Text Processing] [[Paper]](https://arxiv.org/pdf/1511.06038.pdf)
@@ -25,4 +29,4 @@ Favorite papers about autoencoders
 
 :white_check_mark: [A Hierarchical Neural Autoencoder for Paragraphs and Documents] [[Paper]](https://arxiv.org/pdf/1506.01057.pdf)
 
-:white_check_mark: [Semi-supervised Sequence Learning] [[Paper]](https://arxiv.org/pdf/1511.01432.pdf)
+
