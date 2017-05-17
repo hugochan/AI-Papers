@@ -2,8 +2,6 @@
 Favorite papers about question answering
 
 ## QA
---------------------------------------------
-
 :white_check_mark: [Natural language question answering over RDF: a graph data driven approach] [[Paper]](https://pdfs.semanticscholar.org/cb4d/277a51da6894fe5143013978567ef5f805c8.pdf)
 
 :white_check_mark: [Building Watson: An Overview of the DeepQA Project] [[Paper]](https://www.aaai.org/ojs/index.php/aimagazine/article/view/2303/2165)
