@@ -15,7 +15,7 @@ A comprehensive list of our favorite AI papers. It is an ongoing project.
 ## NLP
 - Representation Learning
 - Text Classification
-- Question Answering
+- [Question Answering](QA/QA.md)
 
 ## Computer Vision
 
