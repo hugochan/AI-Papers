@@ -27,3 +27,5 @@ Favorite papers about question answering
 :white_check_mark: [Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks] [[Paper]](https://pdfs.semanticscholar.org/73d8/26d4c2363701b88e3e234fe3b8756c0f9671.pdf)
 
 :white_check_mark: [Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning] [[Paper]](https://arxiv.org/pdf/1702.03274.pdf)
+
+:white_check_mark: [Key-Value Retrieval Networks for Task-Oriented Dialogue] [[Paper]](https://arxiv.org/pdf/1705.05414.pdf)
