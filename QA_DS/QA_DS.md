@@ -42,4 +42,6 @@ Favorite papers about question answering and dialog systems
 
 :white_check_mark: [Incorporating Copying Mechanism in Sequence-to-Sequence Learning] [[Paper]](https://arxiv.org/pdf/1603.06393.pdf)
 
+:white_check_mark: [Smart Reply: Automated Response Suggestion for Email] [[Paper]](https://arxiv.org/pdf/1606.04870.pdf)
+
 :white_check_mark: [How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation] [[Paper]](https://arxiv.org/pdf/1603.08023.pdf)
