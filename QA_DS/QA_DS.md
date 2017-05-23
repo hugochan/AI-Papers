@@ -18,8 +18,6 @@ Favorite papers about question answering and dialog systems
 
 :white_check_mark: [Deep Reinforcement Learning for Dialogue Generation] [[Paper]](https://arxiv.org/pdf/1606.01541.pdf)
 
-:white_check_mark: [A Persona-Based Neural Conversation Model] [[Paper]](https://arxiv.org/pdf/1603.06155.pdf)
-
 :white_check_mark: [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses] [[Paper]](https://arxiv.org/pdf/1506.06714.pdf)
 
 :white_check_mark: [Neural Generative Question Answering] [[Paper]](https://arxiv.org/pdf/1512.01337.pdf)
@@ -35,5 +33,13 @@ Favorite papers about question answering and dialog systems
 :white_check_mark: [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models] [[Paper]](https://arxiv.org/pdf/1507.04808.pdf)
 
 :white_check_mark: [A Persona-Based Neural Conversation Model] [[Paper]](https://arxiv.org/pdf/1603.06155.pdf) [[Code]](https://github.com/jiweil/Neural-Dialogue-Generation)
+
+:white_check_mark: [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems] [[Paper]](https://arxiv.org/pdf/1506.08909.pdf)
+
+:white_check_mark: [Improved Deep Learning Baselines for Ubuntu Corpus Dialogs] [[Paper]](https://arxiv.org/pdf/1510.03753.pdf)
+
+:white_check_mark: [A Diversity-Promoting Objective Function for Neural Conversation Models] [[Paper]](https://arxiv.org/pdf/1510.03055.pdf)
+
+:white_check_mark: [Incorporating Copying Mechanism in Sequence-to-Sequence Learning] [[Paper]](https://arxiv.org/pdf/1603.06393.pdf)
 
 :white_check_mark: [How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation] [[Paper]](https://arxiv.org/pdf/1603.08023.pdf)
