@@ -33,3 +33,5 @@ Favorite papers about question answering and dialog systems
 :white_check_mark: [Attention with Intention for a Neural Network Conversation Model] [[Paper]](https://arxiv.org/pdf/1510.08565.pdf)
 
 :white_check_mark: [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models] [[Paper]](https://arxiv.org/pdf/1507.04808.pdf)
+
+:white_check_mark: [A Persona-Based Neural Conversation Model] [[Paper]](https://arxiv.org/pdf/1603.06155.pdf)
