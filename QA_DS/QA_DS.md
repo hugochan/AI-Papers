@@ -53,3 +53,9 @@ Favorite papers about question answering and dialog systems
 :white_check_mark: [Dialog-based Language Learning] [[Paper]](https://arxiv.org/pdf/1604.06045.pdf)
 
 :white_check_mark: [Towards AI-complete Question Answering: A Set of Prerequisite Toy Tasks] [[Paper]](https://arxiv.org/pdf/1502.05698.pdf)
+
+:white_check_mark: [Question Answering with Subgraph Embeddings] [[Paper]](https://arxiv.org/pdf/1406.3676.pdf)
+
+:white_check_mark: [Open Question Answering with Weakly Supervised Embedding Models] [[Paper]](https://arxiv.org/pdf/1404.4326.pdf)
+
+:white_check_mark: [A Neural Conversational Model] [[Paper]](https://arxiv.org/pdf/1506.05869.pdf)
