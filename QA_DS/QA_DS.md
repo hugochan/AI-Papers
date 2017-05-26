@@ -45,3 +45,11 @@ Favorite papers about question answering and dialog systems
 :white_check_mark: [Smart Reply: Automated Response Suggestion for Email] [[Paper]](https://arxiv.org/pdf/1606.04870.pdf)
 
 :white_check_mark: [How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation] [[Paper]](https://arxiv.org/pdf/1603.08023.pdf)
+
+:white_check_mark: [A Survey of Available Corpora for Building Data-Driven Dialogue Systems] [[Paper]](https://arxiv.org/pdf/1512.05742.pdf)
+
+:white_check_mark: [Large-scale Simple Question Answering with Memory Networks] [[Paper]](https://arxiv.org/pdf/1506.02075.pdf)
+
+:white_check_mark: [Dialog-based Language Learning] [[Paper]](https://arxiv.org/pdf/1604.06045.pdf)
+
+:white_check_mark: [Towards AI-complete Question Answering: A Set of Prerequisite Toy Tasks] [[Paper]](https://arxiv.org/pdf/1502.05698.pdf)
