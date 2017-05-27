@@ -59,3 +59,13 @@ Favorite papers about question answering and dialog systems
 :white_check_mark: [Open Question Answering with Weakly Supervised Embedding Models] [[Paper]](https://arxiv.org/pdf/1404.4326.pdf)
 
 :white_check_mark: [A Neural Conversational Model] [[Paper]](https://arxiv.org/pdf/1506.05869.pdf)
+
+:white_check_mark: [Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems] [[Paper]](https://arxiv.org/pdf/1508.01745.pdf)
+
+:white_check_mark: [Stochastic Language Generation in Dialogue using Recurrent Neural Networks with Convolutional Sentence Reranking] [[Paper]](http://aclweb.org/anthology/W15-4639)
+
+:white_check_mark: [Joint relational embeddings for knowledge-based question answering] [[Paper]](https://pdfs.semanticscholar.org/eabb/8ddbd2b9cae7e2169d7f6681a5e7694ec088.pdf)
+
+:white_check_mark: [End-To-End Memory Networks] [[Paper]](https://arxiv.org/pdf/1503.08895.pdf)
+
+:white_check_mark: [Neural Enquirer: Learning to Query Tables with Natural Language] [[Paper]](https://arxiv.org/pdf/1512.00965.pdf)
