@@ -73,3 +73,5 @@ Favorite papers about question answering and dialog systems
 :white_check_mark: [Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings] [[Paper]](https://arxiv.org/pdf/1704.07130.pdf)
 
 :white_check_mark: [Adversarial Learning for Neural Dialogue Generation] [[Paper]](https://arxiv.org/pdf/1701.06547) [[Code]](https://github.com/jiweil/Neural-Dialogue-Generation)
+
+:white_check_mark: [Dynamic Coattention Networks For Question Answering] [[Paper]](https://arxiv.org/pdf/1611.01604.pdf)
