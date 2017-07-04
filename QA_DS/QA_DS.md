@@ -77,3 +77,5 @@ Favorite papers about question answering and dialog systems
 :white_check_mark: [Dynamic Coattention Networks For Question Answering] [[Paper]](https://arxiv.org/pdf/1611.01604.pdf)
 
 :white_check_mark: [RelNet: End-to-end Modeling of Entities & Relations] [[Paper]](https://arxiv.org/pdf/1706.07179.pdf)
+
+:white_check_mark: [Improved Neural Relation Detection for Knowledge Base Question Answering] [[Paper]](https://arxiv.org/pdf/1704.06194.pdf)
