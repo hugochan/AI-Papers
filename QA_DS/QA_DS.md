@@ -79,3 +79,8 @@ Favorite papers about question answering and dialog systems
 :white_check_mark: [RelNet: End-to-end Modeling of Entities & Relations] [[Paper]](https://arxiv.org/pdf/1706.07179.pdf)
 
 :white_check_mark: [Improved Neural Relation Detection for Knowledge Base Question Answering] [[Paper]](https://arxiv.org/pdf/1704.06194.pdf)
+
+:white_check_mark: [Character-Level Question Answering with Attention] [[Paper]](https://arxiv.org/pdf/1604.00727.pdf)
+
+:white_check_mark: [CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases] [[Paper]](https://arxiv.org/pdf/1606.01994.pdf)
+
